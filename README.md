@@ -4,8 +4,7 @@
 
 ### Here my trophy 🏆 
 
-[![trophy](https://github-profile-trophy.vercel.app/?yo-gif12=ryo-ma&theme=algolia](https://github.com/yo-gif12/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=yo-gif12&theme=algolia)](https://github.com/yo-gif12/github-profile-trophy)
 
 ### i mostly use :
 
